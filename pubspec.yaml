@@ -1,4 +1,4 @@
-name: dartssh2_rsa
+name: dartssh2
 version: 2.9.1-pre
 description: SSH and SFTP client written in pure Dart, aiming to be feature-rich as well as easy to use.
 homepage: https://github.com/TerminalStudio/dartssh2
